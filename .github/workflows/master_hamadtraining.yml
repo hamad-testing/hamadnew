@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'HamadTraining'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9A73DCBC80A4534854E3105B4CA8BFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4188F512BECA4F738A34596C5055BF5F }}
           package: .
